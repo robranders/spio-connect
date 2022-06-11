@@ -1,0 +1,29 @@
+{
+  "name": "spio-connect",
+  "version": "1.0.0",
+  "description": "A GUI API tool to configure SQL Server Stored Procedures",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robranders/spio-connect.git"
+  },
+  "keywords": [
+    "SQL Server",
+    "SQL",
+    "Stored Procedure",
+    "REST",
+    "API"
+  ],
+  "author": "Robin Branders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robranders/spio-connect/issues"
+  },
+  "homepage": "https://github.com/robranders/spio-connect#readme",
+  "dependencies": {
+    "mssql": "^8.1.2"
+  }
+}
